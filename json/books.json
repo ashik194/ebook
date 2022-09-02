@@ -1,0 +1,51 @@
+[
+  {
+    "rating" : "5.00",
+    "title" : "Md. Ashikur Rahman",
+    "text" : "Software Engineer",
+    "img" : "img/Md_Ashikur_Rahman.jpg"
+  },
+  {
+    "rating" : "4.2",
+    "title" : "The Test Cure",
+    "text" : "New Testing Text",
+    "img" : "img/asdf_11zon.jpg"
+  },
+  {
+    "rating" : "4.9",
+    "title" : "The Bangladeshi Cure",
+    "text" : "Bangladeshi Testing Text",
+    "img" : "img/padma_bridge.jpeg"
+  },
+  {
+    "rating" : "4.6",
+    "title" : "The Lee Cure",
+    "text" : "Lee Testing Text",
+    "img" : "img/sadfadf.jpg"
+  },
+  {
+    "rating" : "4.7",
+    "title" : "The Don Cure",
+    "text" : "Don Testing Text",
+    "img" : "img/925bef6e7813778752684f0256cb991d.jpg"
+  },
+  {
+    "rating" : "4.3",
+    "title" : "The Padma Bridge",
+    "text" : "Padma Bridge Text",
+    "img" : "img/padma_bridge.jpeg"
+  },
+  {
+    "rating" : "4.4",
+    "title" : "The Thirsty Cure",
+    "text" : "The Testing Text",
+    "img" : "img/VISH8143-1.jpg"
+  },
+  {
+    "rating" : "5",
+    "title" : "The Wedding Cure",
+    "text" : "Wedding Testing Text",
+    "img" : "img/fgtty.jpg"
+  }
+
+]
